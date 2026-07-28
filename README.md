@@ -16,8 +16,8 @@
 ### About
 
 - 🎓 **MSc Statistics** — Pondicherry Central University
-- 🏢 **Former AI Systems Engineering Intern** @ Zecser Business LLP — engineered ~80% of the core Python logic for an 8-microservice AI hiring platform
-- 🧠 I focus on the mathematical foundations behind models — statistical inference over black-box tuning
+- 🏢 **Former AI Systems Engineering Intern** @ Zecser Business LLP — contributed to Python backend development, AI workflow automation, and microservice-based recruitment systems.
+- 🧠 Passionate about combining statistical foundations with modern AI and machine learning to build reliable and explainable intelligent systems.
 
 ### Open to Opportunities
 
