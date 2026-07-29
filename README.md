@@ -78,7 +78,4 @@ Power BI Star Schema across 9 tables analyzing 100K+ marketplace transactions â€
 
 ðŸ“« Reach me at **murthajaafham@gmail.com** or on **[LinkedIn](https://www.linkedin.com/in/murthaja-afham/)**
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Murthaja-ai&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-
 </div>
