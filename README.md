@@ -29,7 +29,7 @@
 
 <table bordercolor="#30363d">
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 <a href="https://github.com/Murthaja-ai/AI-Furniture-Layout-Analyzer">
 <img src="assets/furniture-cover.png" width="100%"/>
 </a>
@@ -37,7 +37,7 @@
 <b>AI Furniture Layout Analyzer</b><br>
 Real-time computer vision detecting 5 furniture classes — 54% mAP50 via fine-tuned YOLO11n, served through FastAPI + Angular.
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 <a href="https://github.com/Murthaja-ai/Customer-Spend-Forecaster">
 <img src="assets/spend-forecaster-cover.png" width="100%"/>
 </a>
@@ -45,13 +45,21 @@ Real-time computer vision detecting 5 furniture classes — 54% mAP50 via fine-t
 <b>AI Customer Spend Forecaster</b><br>
 K-Means segmentation + XGBoost forecasting (4.5% test MAE) on 1.29M transactions, deployed via Streamlit with SHAP explainability.
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 <a href="https://github.com/Murthaja-ai/Olist-Ecommerce-Executive-Dashboard">
 <img src="assets/olist-cover.png" width="100%"/>
 </a>
 <br><br>
 <b>Olist Executive BI Dashboard</b><br>
 Power BI Star Schema across 9 tables analyzing 100K+ marketplace transactions — surfaced a critical 3.1% customer retention gap.
+</td>
+<td width="25%" valign="top">
+<a href="https://github.com/Murthaja-ai/Strategic-Performance-Dashboard">
+<img src="assets/ipl-cover.png" width="100%"/>
+</a>
+<br><br>
+<b>Strategic Performance & Decision Analytics</b><br>
+Team-centric Tableau model across 16 seasons of match data — surfaced an 8.7-point home advantage and disproved the toss as a meaningful factor.
 </td>
 </tr>
 </table>
